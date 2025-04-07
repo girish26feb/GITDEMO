@@ -6,7 +6,10 @@ public class GIT13 {
 		System.out.println("Develop2 done");
 	}	
 			
-	
+	public void develop3() {
+		System.out.println("Develop3 done");
+	}	
+			
 	
 	
 	
